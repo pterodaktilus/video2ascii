@@ -10,5 +10,8 @@ Make sure you have the following libraries installed before running the program:
 - opencv-python
 - numpy
 
-you can run program by typing:
-  python main.py <videofilename>
+you can run program by typing in cmd or terminal:\
+python main.py <videofilename>
+
+
+  
